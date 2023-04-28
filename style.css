@@ -1,0 +1,15 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+    color: black;
+}
+.btn
+{
+    width: 600px;
+    font-weight: bolder;
+    border-radius: 20px;
+}
